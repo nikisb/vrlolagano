@@ -1,0 +1,167 @@
+
+"....................."
+
+
+name="[B][COLOR white].........ADDONS.........[/COLOR][/B]"
+version="0.0"
+url="http://"
+gui="http://"
+kodi="17.6"
+theme="http://"
+icon="http://tojelako.com/tojelako/icon.png"
+fanart="http://"
+preview="http://"
+adult="no"
+description="Tojelako Recommended Addons. Please select from the list below..."
+
+
+
+name="Nevena Cinema"
+plugin="plugin.video.NevenaCinema"
+url="http://tojelako.com/tojelako/Programi/plugin.video.NevenaCinema/plugin.video.NevenaCinema-2.1.zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="http://tojelako.com/tojelako/Programi/plugin.video.NevenaCinema/icon.png"
+fanart="http://"
+adult="No"
+description="Nevena Cinema Addon (Tojelako)"
+
+
+
+
+
+
+name="Elementum Kodi Addon"
+plugin="plugin.video.elementum"
+url="http://tojelako.com/tojelako/Programi/plugin.video.elementum/plugin.video.elementum-0.1.44.zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="https://koditips.com/wp-content/uploads/elementum-kodi.png"
+fanart="http://"
+adult="No"
+description="Elementum Kodi Addon je Torrent addon i kao takav je zabranjen u EU sve radite na sopskvenu odgovornost "
+
+
+
+"....................."
+
+name="[B][COLOR white].........WIZARDS.........[/COLOR][/B]"
+version="0.0"
+url="http://"
+gui="http://"
+kodi="17.6"
+theme="http://"
+icon="http://tojelako.com/tojelako/icon.png"
+fanart="http://"
+preview="http://"
+adult="no"
+description="Tojelako Recommended Wizards. Please select from the list below..."
+
+
+
+
+
+
+
+
+"....................."
+
+name="[B][COLOR white].........REPOS.........[/COLOR][/B]"
+version="0.0"
+url="http://"
+gui="http://"
+kodi="17.6"
+theme="http://"
+icon="http://tojelako.com/tojelako/icon.png"
+fanart="http://"
+preview="http://"
+adult="no"
+description="Tojelako Recommended Repos. Please select from the list below..."
+
+name="Tojelako Repo"
+plugin="repository.tojelako"
+url="http://tojelako.com/tojelako/Programi/repository.tojelako-1.8.zip"
+repository=""
+repositoryxml="http://"
+repositoryurl="http://"
+icon="http://tojelako.com/repo/tojelako/Programi/repository.tojelako/icon.gif"
+fanart="http://"
+adult="no"
+description="Tojelako Repository bu Tojelako"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"....................."
+
+name="[B][COLOR white].........INFO.........[/COLOR][/B]"
+version="0.0"
+url="http://"
+gui="http://"
+kodi="17.6"
+theme="http://"
+icon="http://tojelako.com/tojelako/icon.png"
+fanart="http://"
+preview="http://"
+adult="no"
+description=""
+
+name="[B][COLOR lime]Tojelako[/COLOR][/B]"
+plugin="plugin.program.batwiz"
+url=""
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="http://tojelako.com/tojelako/icon.png"
+fanart="http://"
+adult="No"
+description=""
+
+name="[B][COLOR lime]Tojelako[/COLOR][/B]"
+plugin="plugin.program.batwiz"
+url=""
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="http://tojelako.com/tojelako/icon.png"
+fanart="http://"
+adult="No"
+description=""
+
+name="[B][COLOR lime]Tojelako[/COLOR][/B]"
+plugin="plugin.program.batwiz"
+url=""
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="http://tojelako.com/tojelako/icon.png"
+fanart="http://"
+adult="No"
+description=""
+
+name="[B][COLOR lime]Tojelako[/COLOR][/B]"
+plugin="plugin.program.batwiz"
+url=""
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="http://tojelako.com/tojelako/icon.png"
+fanart="http://"
+adult="No"
+description=""
+
+"....................."
